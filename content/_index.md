@@ -8,12 +8,12 @@ sections:
   - block: hero
     content:
       title: |
-        Victoria GAP
+        Victorian GAP
       image:
         filename: GAP.png
       text: |
         <br>
-        This the Victorian Geometry, Analysis and Partial Differential Equations Network. It is a loose collection of researchers working on topics related to one of the three themes.
+        This is the Victorian Geometry, Analysis and Partial Differential Equations Network. It is a loose collection of researchers working on topics related to one of the three themes.
   
   - block: collection
     content:
