@@ -8,13 +8,13 @@ sections:
     content:
       title: Contact
       text: |- 
-        This is the contact page for the Victorian GAP
+        This is the contact page for the Victorian GAP. Please email us below.
       email: geometry.analysis.pde@gmail.com
       # phone: 888 888 88 88
       address:
       #  street: Locked Bagt 20000
-      #  city: Geelong
-      #  region: Vic
+        city: Melbourne
+        region: Victoria
       #  postcode: '3220'
         country: Australia
         country_code: AU
@@ -36,33 +36,33 @@ sections:
       autolink: true
     
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
+      #form:
+      #  provider: netlify
+      #  formspree:
+      #    id:
+      #  netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      #    captcha: true
     design:
       columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+#  - block: markdown
+#    content:
+#      title:
+#      subtitle: ''
+#      text:
+#    design:
+#      columns: '1'
+#     background:
+#        image: 
+#          filename: contact.jpg
+#          filters:
+#            brightness: 1
+#          parallax: false
+#          position: center
+#          size: cover
+#          text_color_light: true
+#      spacing:
+#        padding: ['20px', '0', '20px', '0']
+#      css_class: fullscreen
 ---
