@@ -64,12 +64,10 @@ projects:
 
 Please register your attendence here: https://ms.office.com/r/NPMwmV9ZBv
 
-Friday 19th September at La Trobe, City Campus.
+**Speakers**:
 
-Speakers:
-
-Jesse Gell-Redman (Melbourne)
-Yuri Nikolayevsky (La Trobe),
+Jesse Gell-Redman (Melbourne) \
+Yuri Nikolayevsky (La Trobe) \
 A/Prof. Nadezda Sukhorukova (Swinburne)
 
  
@@ -85,5 +83,3 @@ Currently, I am at Swinburne University of Technology, School of Science, Comput
 
 My research interests are in the area of Mathematical Optimisation an applications to real-life problems. One of the recent applications is approximation, data analysis and deep learning. I approach them from the point of view of modern optimisation.
 
-**Title**: XXX
-*
