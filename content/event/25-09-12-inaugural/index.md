@@ -1,5 +1,6 @@
 ---
 title: Inaugural Victorian GAP Meeting
+draft: true
 
 event: Inaugural Victorian GAP Meeting 
 event_url: 
