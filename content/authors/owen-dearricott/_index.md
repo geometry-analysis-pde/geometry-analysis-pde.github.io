@@ -18,27 +18,24 @@ organizations:
     url: 'https://scholars.latrobe.edu.au/odearricott'
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include ...
+#bio: Dr. Owen Dearricott is a Riemannian geometer best known for his work in constructing metrics of positive sectional curvature on manifolds in dimension seven. He has also made contributions to the study of isoparametric hypersurfaces in spheres in connection with his work on n-Sasakian manifolds and found new inhomogeneous Einstein manifolds through Quaternion-Sasakian reduction.  More recently he has constructed several ASD Einstein spaces.
 
-#interests:
-#  - Global analysis
-#  - Index theory 
+interests:
+  - Global Riemannian geometry
+  - Mathematical Physics
 #  - Functional calculus
 
-#education:
-#  courses:
-#    - course: PhD in Pure Mathematics
-#      institution: Australian National University
-#      year: 2013
-#    - course: Honours in Science 
-#      institution: Monash University
-#      year: 2006
-#    - course: BSc
-#      institution: Monash University
-#      year: 2004
-#    - course: BCompSc
-#      institution: Monash University
-#      year: 2004
+education:
+  courses:
+    - course: Doctor of Philosophy in Mathematics
+      institution: Stony Brook University (USA)
+      year: 2002
+    - course: Masters in Science (Research)
+      institution: The University of Melbourne
+      year: 2002
+    - course: B.Sc. Hons.
+      institution: The University of Melbourne
+      year: 1996
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
