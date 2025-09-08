@@ -29,4 +29,4 @@ projects: []
 ---
 
 We are officially launching the Victorian GAP on 19 September 2025 with an
-[inaugural seminar]({{< ref "25-09-12-inaugural" >}}).
+[inaugural seminar]({{< ref "25-09-19-inaugural" >}}).
