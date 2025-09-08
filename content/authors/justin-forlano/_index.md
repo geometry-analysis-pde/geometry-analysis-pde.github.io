@@ -18,59 +18,38 @@ organizations:
     url: 'https://research.monash.edu/en/persons/justin-forlano'
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include ...
+#bio: I am currently a Lecturer (fixed term) at the School of Mathematics, Monash University in Melbourne, Australia. Prior to this, I was post-doctoral research associate at The University of California, Los Angeles, and at The University of Edinburgh. I am interested in questions related to nonlinear dispersive equations.
 
-#interests:
-#  - Global analysis
-#  - Index theory 
-#  - Functional calculus
+interests:
+  - Well-posedness of nonlinear dispersive PDEs
+  - long-time properties
+  - invariant and quasi-invariant measures
+  - stochastic nonlinear dispersive PDE
 
-#education:
-#  courses:
-#    - course: PhD in Pure Mathematics
-#      institution: Australian National University
-#      year: 2013
-#    - course: Honours in Science 
-#      institution: Monash University
-#      year: 2006
-#    - course: BSc
-#      institution: Monash University
-#      year: 2004
-#    - course: BCompSc
-#      institution: Monash University
-#      year: 2004
+education:
+  courses:
+    - course: PhD in Pure Mathematics
+      institution: Heriot-Watt University and The University of Edinburgh
+      year: 2020
+    - course: BSc Adv with Honours
+      institution: Monash University
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#  - icon: globe
-#    icon_pack: fas
-#    link: 'https://lashi.org'
+  - icon: globe
+    icon_pack: fas
+    link: 'https://sites.google.com/view/jforlano/'
   - icon: envelope
     icon_pack: fas
     link: 'mailto:justin.forlano@monash.edu'
-#  - icon: youtube
-#    icon_pack: fab
-#    link: 'https://www.youtube.com/channel/UCEvCFLCgX089WgoTykpGotA'
-#  - icon: linkedin
-#    icon_pack: fab
-#    link: https://www.linkedin.com/in/lashi-bandara
-#  - icon: google-scholar
-#    icon_pack: ai
-#    link: https://scholar.google.com.au/citations?user=_D55D0sAAAAJ&hl=en
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/lashi-bandara
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=Cy0GTmkAAAAJ&hl=en
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
