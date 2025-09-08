@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {2025} Lashi Bandara, Justin Forlano, Owen Dearricott. This work is licensed under {MIT License}'
+    notice: '© {2025} Lashi Bandara, Owen Dearricott, Justin Forlano. This work is licensed under {MIT License}'
     license:
       enable: true
       allow_derivatives: false
