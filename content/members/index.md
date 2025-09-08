@@ -25,7 +25,7 @@ sections:
       title: Join!
       text: | 
          Membership is free. Here are the instructions: 
-         - Fill out [file](/assets/membership-YOURNAME) where you specify some of your info;
+         - Fill out [file](/downloads/membership-YOURNAME.md) where you specify some of your info;
          - Find a 400x400 pixel width image, if you would like an accomanying image (optional); 
          - Email these attachments with the subject "Membership" to [geometry.analysis.pde@gmail.com](mailto:geometry.analysis.pde@gmail.com).
 ---
