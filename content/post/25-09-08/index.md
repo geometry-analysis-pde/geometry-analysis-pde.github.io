@@ -4,7 +4,7 @@
 title: "Launch of the Victorian GAP"
 subtitle: ""
 summary: ""
-authors: []
+authors: [""]
 tags: []
 categories: []
 date: 2025-09-08T10:10:00+10:00
