@@ -63,7 +63,7 @@ projects:
 # Further event details, including page elements such as image galleries, can be added to the body of this page.
 ---
 
-Please register your attendance here: https://ms.office.com/r/NPMwmV9ZBv
+Please register your attendance: [REGISTER](https://tinyurl.com/gaprego)
 
 ---
 ## Speakers:
