@@ -36,15 +36,18 @@ education:
     - course: B.Sc. Hons.
       institution: The University of Melbourne
       year: 1996
+#    - course: BCompSc
+#      institution: Monash University
+#      year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#  - icon: globe
-#    icon_pack: fas
-#    link: 'https://lashi.org'
+  - icon: globe
+    icon_pack: fas
+    link: 'https://sites.google.com/view/owendearricott/home'
   - icon: envelope
     icon_pack: fas
     link: 'O.Dearricott@latrobe.edu.au'
@@ -54,9 +57,9 @@ social:
 #  - icon: linkedin
 #    icon_pack: fab
 #    link: https://www.linkedin.com/in/lashi-bandara
-#  - icon: google-scholar
-#    icon_pack: ai
-#    link: https://scholar.google.com.au/citations?user=_D55D0sAAAAJ&hl=en
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com.au/citations?user=qQBLMnkAAAAJ&hl=en
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/lashi-bandara
