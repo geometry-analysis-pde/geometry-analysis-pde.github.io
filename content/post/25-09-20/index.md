@@ -43,6 +43,6 @@ Those in Victoria working on topics related to geometry, analysis and PDE and wo
 
 
 
-Here are some images from the day.
+<!--Here are some images from the day.
 
-![ ](1.jpeg) ![ ](2.jpeg) ![ ](3.jpeg)  ![ ](4.jpeg) ![ ](5.jpeg) ![ ](6.jpeg) ![ ](7.jpeg)
+#![ ](1.jpeg) ![ ](2.jpeg) ![ ](3.jpeg)  ![ ](4.jpeg) ![ ](5.jpeg) ![ ](6.jpeg) ![ ](7.jpeg) -->
