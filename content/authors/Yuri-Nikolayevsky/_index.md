@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Associate Professor Yuri Nikolayevsky 
+title:  Yuri Nikolayevsky 
 
 # Full Name (for SEO)
 first_name: Yuri 
