@@ -80,9 +80,9 @@ Please [REGISTER](https://forms.office.com/r/FUUMtR4EWk) your attendance: https:
 --------|----------------------
 | 11:00 | Andreia Chapouto    |
 | 12:00 | Lunch               |
-| 13:30 | Leo Tzou 	      |
+| 13:30 | Ian Marquette       |
 | 14:30 | Afternoon Tea       |
-| 15:00 | Ian Marquette       |
+| 15:00 | Leo Tzou 	      |
 
 ---
 ## Titles and Abstracts: 
@@ -98,16 +98,6 @@ Aiming to bridge the regularity gap between the scaling critical space H^(-3/2) 
  
 
 ---
-
-_Speaker_: Leo Tzou
- 
-
-_Title_: Inverse Problems for Minimal Surfaces
- 
-_Abstract_: This talk explores a class of inverse problems where the goal is to determine the geometry of a minimal surface—and in some cases, the surrounding ambient space—from area data. These problems arise naturally in differential geometry and also appear in mathematical models inspired by theoretical physics, such as the AdS/CFT correspondence. We show how resolving such problems draws on a rich toolkit of methods, including nonlinear PDEs, integral geometry, and microlocal analysis. Time permitting, we conclude with a brief look at how recent machine learning techniques can be used to infer geometric structure from minimal surface data.
-
-
----
 _Speaker_: Ian Marquette 
  
 _Title_:  The search for higher order symmetries and Hamiltonians involving Painlevé transcendents
@@ -116,3 +106,11 @@ _Abstract_:  The six Painlevé transcendents were obtained by Painlevé, Gambier
 
 The connection between Painlevé transcendents and the Schrodinger equation is much more recent.  This connection was discovered has the search for symmetries of two- and higher dimensional Hamiltonians in quantum mechanics was extended beyond second order. They also appear in context of higher order Darboux transformations and other types of symmetries. This talk will be devoted to present and overview of the Hamiltonians with a potential involving Painlevé transcendents. The talk will focus on the case of superintegrability which leads to systems of PDEs which relates to the Chazy class of differential equations and their reductions to Painlevé transcendents. The talk will highlight certains of their properties and underlying algebraic structures. Examples on Euclidean and Riemannian spaces will be discussed, in particular with the fourth and sixth Painlevé transcendents.
 
+
+---
+_Speaker_: Leo Tzou
+ 
+
+_Title_: Geodesic Levy Flight and the Foraging Hypothesis 
+ 
+_Abstract_: The Lévy Flight Foraging Hypothesis is a widely accepted dogma which asserts that animals using search strategies allowing for long jumps, also known as Lévy flights, have an evolutionary advantage over those animals using a foraging strategy based on continuous random walks modelled by Brownian motion. However, recent discoveries suggest that this popular belief may not be true in some geometric settings. In this talk we will explore some of the recent progress in this direction which combines Riemannian geometry with stochastic analysis to create a new set of properties for diffusion processes. 
