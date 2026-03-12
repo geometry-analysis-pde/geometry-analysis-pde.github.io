@@ -5,7 +5,7 @@ draft: false
 event: Victorian GAP Seminar 
 event_url: 
 
-location: Room 2.16 (Teaching Room 4), La Trobe University, City Campus
+location: La Trobe University, City Campus, Room 2.16 (Teaching Room 4)
 address:
   street: 360 Collins St
   city: Melbourne
@@ -90,10 +90,10 @@ Please [REGISTER](https://forms.office.com/r/FUUMtR4EWk) your attendance: https:
 _Speaker_: Andreia Chapouto
 
  
-_Title_: Gauge transform for the Korteweg-de Vries equation and well-posedness below the H^(-1)-scale 
+_Title_: Gauge transform for the Korteweg-de Vries equation and well-posedness below the $H^{-1}$-scale 
 
-_Abstract_:  In this talk, we consider the low regularity well-posedness problem for the Korteweg-de Vries equation (KdV) on the real line.
-Aiming to bridge the regularity gap between the scaling critical space H^(-3/2) and the known optimal well-posedness in H^(-1) in L^2-based Sobolev spaces, we consider rough data in Fourier-Lebesgue spaces. Via infinite normal form reductions and exploiting algebraic cancellations, we introduce a new gauged KdV equation, equivalent to the original one at high regularity, but better behaved for rough solutions, below the H^(-1) scale. Our method is easily adapted to other equations with quadratic derivative nonlinearities, such as the dispersion generalized BO equations, and thus it is totally independent of the KdV completely integrable structure. This talk is based on joint work with Simão Correia (IST, U. Lisboa) and João Pedro Ramos (IMPA).
+_Abstract_:   In this talk, we consider the low regularity well-posedness problem for the Korteweg-de Vries equation (KdV) on the real line.
+Aiming to bridge the regularity gap between the scaling critical space $H^{-\frac32}$ and the known optimal well-posedness in $H^{-1}$ in $L^2$-based Sobolev spaces, we consider rough data in Fourier-Lebesgue spaces. Via infinite normal form reductions and exploiting algebraic cancellations, we introduce a new gauged KdV equation, equivalent to the original one at high regularity, but better behaved for rough solutions, below the $H^{-1}$ scale. Our method is easily adapted to other equations with quadratic derivative nonlinearities, such as the dispersion generalized BO equations, and thus it is totally independent of the KdV completely integrable structure. This talk is based on joint work with Simão Correia (IST, U. Lisboa) and João Pedro Ramos (IMPA).
 
  
 
