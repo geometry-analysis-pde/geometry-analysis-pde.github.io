@@ -78,24 +78,14 @@ Please [REGISTER](https://forms.office.com/r/FUUMtR4EWk) your attendance: https:
 --- 
 | Time| Speaker/Event	      |
 --------|----------------------
-| 11:00 | Andreia Chapouto    |
+| 11:00 | Ian Marquette       |
 | 12:00 | Lunch               |
-| 13:30 | Ian Marquette       |
+| 13:30 | Andreia Chapouto    |
 | 14:30 | Afternoon Tea       |
 | 15:00 | Leo Tzou 	      |
 
 ---
 ## Titles and Abstracts: 
----
-_Speaker_: Andreia Chapouto
-
- 
-_Title_: Gauge transform for the Korteweg-de Vries equation and well-posedness below the $H^{-1}$-scale 
-
-_Abstract_:   In this talk, we consider the low regularity well-posedness problem for the Korteweg-de Vries equation (KdV) on the real line.
-Aiming to bridge the regularity gap between the scaling critical space $H^{-\frac32}$ and the known optimal well-posedness in $H^{-1}$ in $L^2$-based Sobolev spaces, we consider rough data in Fourier-Lebesgue spaces. Via infinite normal form reductions and exploiting algebraic cancellations, we introduce a new gauged KdV equation, equivalent to the original one at high regularity, but better behaved for rough solutions, below the $H^{-1}$ scale. Our method is easily adapted to other equations with quadratic derivative nonlinearities, such as the dispersion generalized BO equations, and thus it is totally independent of the KdV completely integrable structure. This talk is based on joint work with Simão Correia (IST, U. Lisboa) and João Pedro Ramos (IMPA).
-
- 
 
 ---
 _Speaker_: Ian Marquette 
@@ -106,6 +96,17 @@ _Abstract_:  The six Painlevé transcendents were obtained by Painlevé, Gambier
 
 The connection between Painlevé transcendents and the Schrodinger equation is much more recent.  This connection was discovered has the search for symmetries of two- and higher dimensional Hamiltonians in quantum mechanics was extended beyond second order. They also appear in context of higher order Darboux transformations and other types of symmetries. This talk will be devoted to present and overview of the Hamiltonians with a potential involving Painlevé transcendents. The talk will focus on the case of superintegrability which leads to systems of PDEs which relates to the Chazy class of differential equations and their reductions to Painlevé transcendents. The talk will highlight certains of their properties and underlying algebraic structures. Examples on Euclidean and Riemannian spaces will be discussed, in particular with the fourth and sixth Painlevé transcendents.
 
+
+---
+_Speaker_: Andreia Chapouto
+
+ 
+_Title_: Gauge transform for the Korteweg-de Vries equation and well-posedness below the $H^{-1}$-scale 
+
+_Abstract_:   In this talk, we consider the low regularity well-posedness problem for the Korteweg-de Vries equation (KdV) on the real line.
+Aiming to bridge the regularity gap between the scaling critical space $H^{-\frac32}$ and the known optimal well-posedness in $H^{-1}$ in $L^2$-based Sobolev spaces, we consider rough data in Fourier-Lebesgue spaces. Via infinite normal form reductions and exploiting algebraic cancellations, we introduce a new gauged KdV equation, equivalent to the original one at high regularity, but better behaved for rough solutions, below the $H^{-1}$ scale. Our method is easily adapted to other equations with quadratic derivative nonlinearities, such as the dispersion generalized BO equations, and thus it is totally independent of the KdV completely integrable structure. This talk is based on joint work with Simão Correia (IST, U. Lisboa) and João Pedro Ramos (IMPA).
+
+ 
 
 ---
 _Speaker_: Leo Tzou
