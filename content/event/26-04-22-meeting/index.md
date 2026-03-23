@@ -90,13 +90,13 @@ Please [REGISTER](https://forms.office.com/r/FUUMtR4EWk) your attendance: https:
 ---
 _Speaker_: Ian Marquette 
  
-_Title_:  The search for higher order symmetries and Hamiltonians involving Painlevé transcendents
+_Title_: The search for higher order symmetries and Hamiltonians involving Painlevé transcendents
+ 
+_Abstract_: The six Painlevé transcendents were obtained by Painlevé, Gambier, and Fuchs in the early 1900s. They play an important role in the classification of ordinary differential equations, and they are related to several areas in physics and mathematics, such as the reduction of various nonlinear partial differential equations of mathematical physics, relativity, statistical mechanics, and quantum field theory.
 
-_Abstract_:  The six Painlevé transcendents were obtained by Painlevé, Gambier, and Fuchs in the early 1900s. They play an important role in the classification of ordinary differential equations, and they are related to several areas in physics and mathematics, such as the reduction of various nonlinear partial differential equations of mathematical physics, relativity, statistical mechanics, and quantum field theory.
+The connection between Painlevé transcendents and the Schrodinger equation is much more recent. This connection was discovered as the search for symmetries of two- and higher dimensional Hamiltonians in quantum mechanics was extended beyond second order. They also appear in the context of higher order Darboux transformations and other types of symmetries. This talk will be devoted to presenting an overview of the Hamiltonians with a potential involving Painlevé transcendents. The talk will focus on the case of superintegrability which leads to systems of PDEs which relates to the Chazy class of differential equations and their reductions to Painlevé transcendents. The talk will highlight certains of their properties and underlying algebraic structures. Examples on Euclidean space and Riemannian manifolds will be discussed, in particular with the fourth and sixth Painlevé transcendents.
 
-The connection between Painlevé transcendents and the Schrodinger equation is much more recent.  This connection was discovered has the search for symmetries of two- and higher dimensional Hamiltonians in quantum mechanics was extended beyond second order. They also appear in context of higher order Darboux transformations and other types of symmetries. This talk will be devoted to present and overview of the Hamiltonians with a potential involving Painlevé transcendents. The talk will focus on the case of superintegrability which leads to systems of PDEs which relates to the Chazy class of differential equations and their reductions to Painlevé transcendents. The talk will highlight certains of their properties and underlying algebraic structures. Examples on Euclidean and Riemannian spaces will be discussed, in particular with the fourth and sixth Painlevé transcendents.
-
-
+ 
 ---
 _Speaker_: Andreia Chapouto
 
