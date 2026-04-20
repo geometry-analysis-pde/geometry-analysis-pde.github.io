@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-[Three days on Dynamics, Geometry and Analysis](https://researchers.ms.unimelb.edu.au/~xgge@unimelb/three_day_DGA.html) will take place at  The University of Melbourne from May 4–6, 2026.
+[Three days on Dynamics, Geometry and Analysis](https://researchers.ms.unimelb.edu.au/~xgge@unimelb/DGA.html) will take place at  The University of Melbourne from May 4–6, 2026.
