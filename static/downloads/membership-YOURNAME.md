@@ -1,13 +1,13 @@
 ---
-# Display name
+# You can use "#" to comment out lines (or remove them to uncomment) if they are inapplicable.
+# Please don't alter spacing and tabulation as this is important in the file format.
+
+# Write your name to display here in the following format.
 title: FIRSTNAME LASTNAME 
 
-# Full Name (for SEO)
+# THe following fields is provided for publication purposes.
 first_name: FIRST NAME
 last_name: LAST NAME
-
-# Is this the primary user of the site?
-superuser: false
 
 # Role/position
 role: POSITION
@@ -15,16 +15,15 @@ role: POSITION
 # Organizations/Affiliations
 organizations:
   - name: INSTITUTION
-    url: 'WEBURL?'
+    url: 'WEBURL TO YOUR INSTITUTION PROFILE'
 
-# Short bio (displayed in user profile at end of posts)
-bio: A BIT OF A BIO 
- 
+# Interests 
 interests:
   - INTEREST 1 
   - INTEREST 2
   - INTEREST 3 ...
 
+# Education: 
 education:
   courses:
     - course: PhD in ??? 
@@ -35,30 +34,28 @@ education:
       year: WHICH YEAR
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+# This is for your email
   - icon: envelope
     icon_pack: fas
     link: 'mailto:YOUREMAIL@INSTITUTION'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/TWITTER?
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/SCHOLAR?
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/GITHUB?
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+# Uncomment below for stuff like X, Google Scholar and GitHub if they apply.
+#  - icon: twitter
+BIO STUFF YOU WANT TO INCLUDE!
+#    icon_pack: fab
+#    link: https://twitter.com/TWITTER?
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.com/SCHOLAR?
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/GITHUB?
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: 'YOUREMAIL@INSTITUTION'
+
+
+# DON'T ALTER ANYTHING HERE TO THE NEXT INDICATED LINE 
+superuser: false
+
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -67,4 +64,8 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Members
+
+# Beneath ---, you can put stuff like your Bio and other details.
 ---
+
+
