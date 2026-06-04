@@ -15,7 +15,7 @@ role: Associate Professor
 # Organizations/Affiliations
 organizations:
   - name: University of Melbourne
-#    url: Not yet available
+    url: https://findanexpert.unimelb.edu.au/profile/1125544-simon-marshall 
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in automorphic forms and analysis on symmetric spaces.  I completed a PhD at Princeton under Peter Sarnak in 2010.  I did postdocs at the IAS and Northwestern, and was at the University of Wisconsin Madison from 2014 to 2025 before moving to Melbourne.
@@ -38,7 +38,10 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
+social:
+  - icon: globe
+    icon_pack: fas
+    link: 'https://sites.google.com/view/smarshall/'
 #  - icon: envelope
 #    icon_pack: fas
 #    link: 'mailto:YOUREMAIL@INSTITUTION'
