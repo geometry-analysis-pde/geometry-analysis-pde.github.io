@@ -32,5 +32,4 @@ Graduate topics course: Harmonic Analysis on Symmetric Spaces
 
 <!--more-->
 
-See https://vicgap.org/post/26-07-30/
-
+See https://vicgap.org/event/26-07-30-symmetric
