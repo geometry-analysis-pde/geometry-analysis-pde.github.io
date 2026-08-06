@@ -5,7 +5,7 @@ draft: false
 event: Victorian GAP Seminar 
 event_url: 
 
-location: RMIT University (Access Grid Room)
+location: RMIT University (15.03.10 (building 15, level 3 room 10))
 address:
   street: 124 La Trobe St
   city: Melbourne
@@ -116,6 +116,6 @@ This is all joint work with Y.T. Liu.
 _Speaker_: James McCoy 
  
 
-_Title_: TBA 
+_Title_: Axially symmetric surface diffusion with generalised Neumann boundary conditions between planes
  
-_Abstract_: TBA 
+_Abstract_: The surface diffusion flow was introduced by Mullins in the 1950s to model thermal grooving in metals.  Together with Nichols, Mullins then studied this flow in the setting of axially-symmetric surfaces given applications to blunting of field emission tips and spheroidization of cylindrical rods.  Previous work by Lecrone and Simonett investigated axially symmetric hypersurfaces evolving by the surface diffusion flow, showing in particular that initial hypersurfaces $C^{2,\alpha}$-close to cylinders of radius $r>1$ lead to long-time solutions that converge as $t\rightarrow \infty$ to cylinders.  We replace that condition with a geometric smallness condition, namely the initial axially-symmetric hypersurface has $L^2$ norm of the `axial curvature’ sufficiently small and is sufficiently far from the axis of rotation.  We show the solution remains away from the axis of rotation and, in particular, not only is the smallness condition preserved, but it decays exponentially, as do enough curvature derivatives in $L^2$ to invoke a classical linearised stability argument at a finite time.  We use the stability argument to obtain long time existence and exponential convergence to a cylinder.  This is joint work with Mashniah Gazwani.
