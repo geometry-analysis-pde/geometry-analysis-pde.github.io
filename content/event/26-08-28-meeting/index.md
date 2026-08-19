@@ -5,7 +5,7 @@ draft: false
 event: Victorian GAP Seminar 
 event_url: 
 
-location: RMIT University (15.03.10 (building 15, level 3 room 10))
+location: RMIT University (008.08.047 for 10:30-12:00 and 013.01.001 for 13:30 to 16.)
 address:
   street: 124 La Trobe St
   city: Melbourne
@@ -83,6 +83,14 @@ Please [REGISTER](https://forms.cloud.microsoft/r/gFJQYLQeFJ) your attendance: h
 | 13:30 | Myles Workman       |
 | 14:30 | Afternoon Tea       |
 | 15:00 | James McCoy 	      |
+
+---
+## Location: 
+---
+| Time | Location |
+------------|------------
+10:30-12:00 | 008.08.047 |  
+13:30-16:00 | 013.01.001| 
 
 ---
 ## Titles and Abstracts: 
